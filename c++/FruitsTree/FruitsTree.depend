@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1625959122 source:c:\users\carnival stores\onedrive\desktop\fruitstree\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Fruits.h"
+
+1625959015 c:\users\carnival stores\onedrive\desktop\fruitstree\include\fruits.h
+	<iostream>
+	<bits/stdc++.h>
+
